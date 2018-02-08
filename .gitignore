@@ -1,3 +1,6 @@
 # ignore IntelliJ
 .idea/
 *.iml
+
+#ignore Visual Studio Code
+.vscode/
